@@ -1,10 +1,9 @@
+var canvas = new fabric.Canvas('myCanvas');
+
 ball_y=0;
 ball_x=0;
 hole_y=400;
 holy_x=800;
-var canvas = new fabric.Canvas('myCanvas');
-
-//Set initial positions for ball and hole images.
 
 
 block_image_width = 5;
